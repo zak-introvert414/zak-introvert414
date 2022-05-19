@@ -4,7 +4,7 @@ public class conditional_2 {
         Scanner sc = new Scanner(System.in);
         int age = sc.nextInt();
 
-        if (age > 18) {
+        if (age > 19) {
             System.out.println("you are adult");
         } else {
             System.out.println("you`r not an adult");
